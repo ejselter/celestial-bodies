@@ -1,4 +1,4 @@
-# celestial-bodies
+# Celestial Bodies
 Free Code Camp Project
 
 This proeject is part of the Database course from FreeCodeCamp.
